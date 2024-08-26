@@ -1,5 +1,7 @@
+import Chatbot from "../components/Chatbot";
+
 const ChatPage = () => {
-  return <></>;
+  return <Chatbot />;
 };
 
 export default ChatPage;
